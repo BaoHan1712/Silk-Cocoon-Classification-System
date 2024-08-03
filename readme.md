@@ -16,6 +16,16 @@ Calculate the amount of money for each type of cocoon.
 
 Calculate the total amount of money for all three types.
 
+<h2>Classification System:</h2>
+
+Uses a servo motor mechanism to classify silk cocoons based on the AI model's evaluation results. 
+
+This system includes a conveyor belt, sensors, and automated mechanisms to ensure that cocoons are classified accurately and quickly.
+
+We use SolidWorks software to create the model for the classification and evaluation machine.
+
+<img src="images/img1.png" alt="System Image">
+
 <h2>HOW TO RUN</h2>
 
 ```python back_end.py```
